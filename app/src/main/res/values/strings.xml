@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MagicSquare</string>
+    <string name="unknown">"X"</string>
+    <string name="result">"?"</string>
+    <string name="add">"+"</string>
+    <string name="equal">"="</string>
+    <string name="howTo">"Numbers 1 to 9 have \n to be used once and only once"</string>
+    <string name="nouv">New Game</string>
+    <string name="help">Help</string>
+    <string name="back">Back</string>
+    <string name="about">About the game</string>
+    <string name="contin">Continue</string>
+    <string name="best">best Score</string>
+    <string name="submit">Submit</string>
+    <string-array name="array_name">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+    </string-array>
+</resources>
